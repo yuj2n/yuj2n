@@ -10,6 +10,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbwls4595)](https://solved.ac/dbwls4595)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwls4595)](https://github.com/dbwls4595/github-readme-stats)
+
+
 <a href="https://velog.io/@yuj2n"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
  <a href="mailto:dbwls4595@naver.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwls4595@naver.com!"/></a>
 
