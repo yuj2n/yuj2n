@@ -6,16 +6,15 @@
 <a href="https://velog.io/@yuj2n"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
  <a href="mailto:dbwls4595@naver.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwls4595@naver.com!"/></a>
 
-<!-- 백준 -->
+<!-- 백준  -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbwls4595)](https://solved.ac/dbwls4595)<br>
-
 
 <!-- 깃허브 상태 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuj2n&count_private=true&card_width=300&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj2n)](https://github.com/yuj2n/github-readme-stats)
 
-<!-- 방문자 수 -->
+<!-- 누적 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuj2n&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 📚Studying 
