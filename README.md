@@ -12,6 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj2n)](https://github.com/yuj2n/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuj2n)](https://github.com/yuj2n/github-readme-stats)
+
+
 
 <a href="https://velog.io/@yuj2n"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
  <a href="mailto:dbwls4595@naver.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwls4595@naver.com!"/></a>
