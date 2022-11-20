@@ -5,7 +5,6 @@
 
 ## 💶My Blog 
 > Still working on it!😅
-<br>
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yuj2n)](https://velog.io/@yuj2n)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yujinkim1)](https://velog.io/@yujinkim1)
 
