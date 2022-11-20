@@ -30,4 +30,4 @@
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin%20Jeon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dreaming%20frontend%20developer!&descAlignY=51&descAlign=62)
+
