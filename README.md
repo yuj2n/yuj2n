@@ -31,6 +31,6 @@
 </div>
 
 ## Contact me
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Instagram-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Instagram-3DDC84?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
