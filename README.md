@@ -8,11 +8,10 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbwls4595)](https://solved.ac/dbwls4595)
 
 
-### 사용 언어
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj2n)](https://github.com/yuj2n/github-readme-stats)
 
-### 깃 상태 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuj2n&count_private=true&card_width=300&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/yuj2n"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
