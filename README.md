@@ -31,7 +31,7 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C-000000?style=flat&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </div>
 
 ## 📞Contact me
