@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=YujinJeon&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=YujinJeon&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### 🤗 Welcome yuj2n's Github 🤗
 <hr>
@@ -31,4 +31,4 @@
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer)
