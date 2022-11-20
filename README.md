@@ -4,7 +4,8 @@
 <hr>
 
 ## 💶My Blog
-> 아직 제작중!
+> 아직 제작중! 
+<br>
 <a href="https://velog.io/@yuj2n"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a><hr>
 
 <!-- 누적 방문자 수 -->
