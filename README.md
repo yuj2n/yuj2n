@@ -1,7 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=YujinJeon&fontAlign=80&fontAlignY=40&color=gradient)
 
 # 🤗 Welcome to yuj2n's Github 🎉
-<hr>
 
 ## 💶My Blog 
 > Still working on it!😅 
