@@ -8,7 +8,7 @@
 
 <!-- 백준 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbwls4595)](https://solved.ac/dbwls4595)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbwls4595)](https://solved.ac/dbwls4595)<br>
 
 <!-- 깃허브 상태 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuj2n&count_private=true&card_width=300&title_color=fff&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
