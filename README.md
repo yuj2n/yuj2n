@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin%20Jeon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dreaming frontend developer!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin%20Jeon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dreaming%20frontend%20developer!&descAlignY=51&descAlign=62)
 
 ### 🤗 yuj2n's Github
 > I'm yujin Jeon dreaming frontend developer
