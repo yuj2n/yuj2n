@@ -2,7 +2,7 @@
 > 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi! I'm yujin Jeon dreaming frontend developer 😋&fontSize=400&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=Hi! I'm yujin Jeon dreaming frontend developer 😋&fontSize=40&fontColor=fff)
 ### 💶블로그 & 이메일📭
 <a href="https://velog.io/@yuj2n"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
  <a href="mailto:dbwls4595@naver.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwls4595@naver.com!"/></a><hr>
