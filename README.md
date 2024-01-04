@@ -4,7 +4,7 @@
 > Hello! I'm Jeon Yujin, who dreams of becoming a FE developer 😋
 
 ## 💻My Blog
-> Still working on it! 😉
+> About javascript/React/next.js 
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=fff&link=https://velog.io/@yuj2n)](https://velog.io/@yuj2n)
 
