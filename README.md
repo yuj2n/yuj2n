@@ -36,11 +36,4 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </div>
 
-## 📲Contact me
-
-<a href="https://www.instagram.com/you_jixn/"><img src="https://img.shields.io/badge/@you_jixn-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.kakaocorp.com/page/service/service/KakaoTalk"><img src="https://img.shields.io/badge/dbwls4595-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white"/></a>
-<a href="https://www.naver.com/"><img src="https://img.shields.io/badge/dbwls4595@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
