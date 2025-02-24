@@ -3,6 +3,13 @@
 # 🤗 Welcome to yuj2n's Github 🎉
 > Hello! I'm Jeon Yujin, who dreams of becoming a FE developer 😋
 
+# 모토
+> 나의 일상의 일부들이 결국 나를 만든다
+
+# 목표
+> 메타인지가 잘 되어있는 사람
+> 깊은 고민을 할 수 있는 개발자
+
 ## 💻My Blog
 > About
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/> 
