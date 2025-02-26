@@ -1,8 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=YujinJeon&fontAlign=80&fontAlignY=40&color=gradient)
 
-# 🤗 Welcome to yuj2n's Github 🎉
-> Hello! I'm Jeon Yujin, who dreams of becoming a FE developer 😋
-
 ## 💭모토
 > 나의 일상의 일부들이 결국 나를 만든다
 
@@ -28,7 +25,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuj2n&count_private=true&card_width=300&title_color=graident&text_color=fff&bg_color=30,12c2e9,c471ed,f64f59)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj2n)](https://github.com/yuj2n/github-readme-stats)
 <br>
-
 
 ## 📚Studying 
 <div align="center">
