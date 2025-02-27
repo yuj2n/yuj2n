@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=YujinJeon&fontAlign=80&fontAlignY=40&color=gradient)
 
 ## 💭모토
-> 나의 일상의 일부들이 결국 나를 만든다
+> 일상의 일부가 나를 만든다
 
 ## 📌목표
 > 메타인지가 잘 되어있는 사람,
