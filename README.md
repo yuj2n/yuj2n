@@ -1,8 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient)
 
-## 💭모토
-> 일상의 일부가 나를 만든다
-
 ## 📌목표
 > 메타인지가 잘 되어있는 사람,
 > 깊은 고민을 할 수 있는 개발자
@@ -17,10 +14,6 @@
 <!-- 백준  -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbwls4595)](https://solved.ac/dbwls4595)<br>
-
-
-<!-- 깃허브 상태 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuj2n)](https://github.com/yuj2n/github-readme-stats)
 <br>
 
 ## 📚Studying 
