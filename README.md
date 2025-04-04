@@ -1,5 +1,3 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient)
-
 ## 📌목표
 > 메타인지가 잘 되어있는 사람,
 > 깊은 고민을 할 수 있는 개발자
